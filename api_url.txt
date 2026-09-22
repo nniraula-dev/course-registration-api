@@ -1,1 +1,1 @@
-PASTE_YOUR_RENDER_BASE_URL_HERE
+https://course-registration-api-6t2o.onrender.com√
